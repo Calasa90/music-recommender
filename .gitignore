@@ -14,4 +14,4 @@ venv/
 # Archivos temporales
 .DS_Store
 Thumbs.db
-data/raw/*.csv
+data/raw/
